@@ -1,0 +1,5 @@
+# Core dependencies
+py7zr>=0.20.0    # For 7z/CB7 archive creation and extraction
+
+# Optional - for creating executables
+pyinstaller>=5.6.0  # For creating standalone executables
